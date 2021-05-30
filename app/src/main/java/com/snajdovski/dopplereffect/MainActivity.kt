@@ -17,7 +17,7 @@ import androidx.compose.ui.unit.dp
 // Experimentation with JetPack Compose and Kotlin on Android, using Android Studio 2020.3.1 Artic Fox Beta 3
 //30 May 2021 snajdovski, stefannajdovski
 //Learning about modifiers such as .border, .padding, ...
-// More about Doopler Effect on https://en.wikipedia.org/wiki/Doppler_effect
+// More about Doppler Effect on https://en.wikipedia.org/wiki/Doppler_effect
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
